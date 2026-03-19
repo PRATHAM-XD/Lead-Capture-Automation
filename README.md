@@ -18,3 +18,5 @@ An automation workflow that captures leads from a web form, saves them to Google
 
 ## Workflow Diagram
 ![LeadFlow Workflow](docs/workflow.png)
+## Lead Data in Google Sheets
+![Google Sheets](docs/sheet.png)
